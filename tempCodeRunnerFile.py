@@ -1,0 +1,1 @@
+print("All symbols dict:",all_symbols)
